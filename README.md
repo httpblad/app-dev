@@ -6,6 +6,6 @@ __Favorite Movie :)__
 
 # MONEY HEIST
 
-## Images
+## Image
 ![Characters](https://wallpapers.com/images/featured/segtwbhffwy01w82.jpg)
 
